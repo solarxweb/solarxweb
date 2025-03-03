@@ -8,7 +8,7 @@ Recently, I decided to switch careers. A year ago, I made the decision to transi
 
 * 🌍  I'm based in Yaroslavl
 * ✉️  You can contact me at [romanenkoxd@gmail.com](mailto:romanenkoxd@gmail.com)
-* 🧠  I'm learning Typescript / Svelte
+* 🧠  I'm learning Typescript
 
 #### Skills
 
