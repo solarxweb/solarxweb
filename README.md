@@ -1,4 +1,5 @@
-Hi 👋 My name is Daniil Romanenko
+Hi 👋
+My name is Daniil Romanenko
 =================================
 
 Frontend developer
