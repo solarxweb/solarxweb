@@ -3,7 +3,7 @@ ____
 
 Recently, I decided to switch careers. A year ago, I made the decision to transition from being a CNC machinist to a web developer. I had been interested in this field as a hobby for quite some time and had been spending a considerable amount of time learning technologies. A year ago, I started my education at the Hexlet programming school as a frontend developer. And this education helped me improve my skills and made me realize that web development is the career I want to pursue.
 
-Currently looking for a job as junior frontend-developer.
+Currently looking for a job as junior frontend developer.
 
 * 🌍  I'm based in Yaroslavl
 * ✉️  You can contact me at [romanenkoxd@gmail.com](mailto:romanenkoxd@gmail.com)
