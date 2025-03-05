@@ -6,7 +6,7 @@ Recently, I decided to switch careers. A year ago, I made the decision to transi
 Currently looking for a job as a junior frontend developer.
 
 * 🌍  I'm based in Yaroslavl
-* ✉️  You can contact me at [romanenkoxd@gmail.com](mailto:romanenkoxd@gmail.com) or [Telegram](https/t.me/solarxsolar)
+* ✉️  You can contact me at [romanenkoxd@gmail.com](mailto:romanenkoxd@gmail.com) or [Telegram](https://www.t.me/solarxsolar)
 
 #### Skills
 
